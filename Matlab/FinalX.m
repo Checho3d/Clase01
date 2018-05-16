@@ -48,3 +48,5 @@ Ts=4/60;
 I=20000/VrmsLoad;
 R=VrmsLoad/I
 Cdc =1/(4*500*R)*(1+1/(sqrt(2)*0.03));
+
+%%Version Final Documento
